@@ -10,8 +10,8 @@
  *       Revision:  none
  *       Compiler:  gcc
  *
- *         Author:  YueYang (feinno), bj.yueyang@gmail.com
- *        Company:  feinno.com
+ *         Author:  YueYang (baifendian), yang.yue@baifendian.com
+ *        Company:  baifendian.com
  *
  * =====================================================================================
  */

@@ -1,17 +1,17 @@
 /*
  * =====================================================================================
  *
- *       Filename:  Sample2.c
+ *       Filename:  s2.c
  *
- *    Description:  test for jni
+ *    Description:  id
  *
  *        Version:  1.0
  *        Created:  04/28/2014 10:42:41 AM
  *       Revision:  none
  *       Compiler:  gcc
  *
- *         Author:  YueYang (feinno), bj.yueyang@gmail.com
- *        Company:  feinno.com
+ *         Author:  YueYang (baifendian), yang.yue@baifendian.com
+ *        Company:  baifendian.com
  *
  * =====================================================================================
  */
