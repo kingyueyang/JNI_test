@@ -1,1 +1,3 @@
-** Some test for JNI
+BRIEF
+======
+*Some test for JNI
